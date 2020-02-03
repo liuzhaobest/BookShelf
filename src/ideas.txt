@@ -1,0 +1,8 @@
+I want to have a management system to manage my e-books.
+It should be a GUI app. phone app?
+I can add a book to it.
+Check if a book exist.
+If exist, it should take me to the book or give me the link to the book.
+it should store all these information into a file
+it should be able to read and write to the file
+use serialization
